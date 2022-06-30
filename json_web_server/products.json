@@ -1,0 +1,82 @@
+[
+{
+    "total_size":6,
+    "type_id":2,
+    "offset":0,
+    "products":[
+      {
+        "id": 1,
+        "name":"Nutritious fruit meal in china",
+        "description":"burger is a food that are prepared from meats and bread, this five red bases, two are dedicated to salami",
+        "price":120,
+        "stars":4,
+        "img":"assets/vid6.JPG",
+        "location": "Ethiopia",
+        "created_at":"2021-12-23 15:03:24",
+        "upddated_at":"2022-01-01 08:56:03",
+        "type_id":2
+      },
+      {
+        "id": 2,
+        "name":"Sweet Dessert",
+        "description":"The best sweet dessert the quality and craftsmanship is on full show. the waiters signiture white tunics are of looswly rumpled linen here versus the crisp whites of the city",
+        "price":1253,
+        "stars":5,
+        "img":"assets/vid6.JPG",
+        "location": "Ethiopia",
+        "created_at":"2021-09-23 15:03:24",
+        "upddated_at":"2022-11-01 08:56:03",
+        "type_id":2
+      },
+      {
+        "id": 3,
+        "name":"Cuban Fufu",
+        "description":"burger is a food that are prepared from meats and bread, this five red bases, two are dedicated to salami",
+        "price":2341,
+        "stars":6,
+        "img":"assets/vid6.JPG",
+        "location": "Ethiopia",
+        "created_at":"2021-12-28 15:03:24",
+        "upddated_at":"2022-01-11 08:56:03",
+        "type_id":2
+      },
+      {
+        "id": 4,
+        "name":"beye Ayenet",
+        "description":"this is the sweets food that are cooked by ethiopian and use it as traditional food",
+        "price":120,
+        "stars":7,
+        "img":"assets/vid6.JPG",
+        "location": "Ethiopia",
+        "created_at":"2021-09-19 13:03:00",
+        "upddated_at":"2022-01-01 08:36:00",
+        "type_id":2
+      },
+      {
+        "id": 5,
+        "name":"Tegabino yetsom",
+        "description":"Tegabino is made from shiro and cooked with very delicious and amizing test",
+        "price":200,
+        "stars":8,
+        "img":"assets/vid6.JPG",
+        "location": "Ethiopia",
+        "created_at":"2021-12-23 15:03:24",
+        "upddated_at":"2022-01-01 08:56:03",
+        "type_id":2
+      },
+      {
+        "id": 6,
+        "name":"ferfer bedabo",
+        "description":"ferefr is made from enjera and spicy and are usually used to save time on rush time and very nice test and adictive food",
+        "price":154,
+        "stars":10,
+        "img":"assets/vid6.JPG",
+        "location": "Ethiopia",
+        "created_at":"2021-11-19 15:00:14",
+        "upddated_at":"2022-01-01 08:32:00",
+        "type_id":2
+      }
+      
+    ]
+  }
+]
